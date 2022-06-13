@@ -1,5 +1,5 @@
 import * as PIXI from 'pixi.js'
-import backgroundImage from './images/background.png'
+import backgroundImage from "./images/background.png"
 
 export class Game {
     pixi: PIXI.Application
